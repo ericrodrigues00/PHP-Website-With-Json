@@ -32,11 +32,11 @@ include 'includes/header.php';
             $jogos_json = file_get_contents('data/jogos.json');
             $jogos = json_decode($jogos_json, true);
             
-            // Verificar se há um filtro de categoria
+            /*  Verificar se há um filtro de categoria */
             $categoria_filtro = isset($_GET['categoria']) ? $_GET['categoria'] : null;
             
             foreach ($jogos as $jogo) {
-                // Se houver filtro de categoria e o jogo não for dessa categoria, pular, caso contrario, segue o resto do loop e exibe o jogo.
+                /* Se houver filtro de categoria e o jogo não for dessa categoria, pular, caso contrario, segue o resto do loop e exibe o jogo.*/
                 if ($categoria_filtro && $jogo['categoria'] != $categoria_filtro) {
                     continue;
                 }

@@ -20,7 +20,7 @@
     $id = $_GET['id'];
     $jogos_json = file_get_contents('data/jogos.json');
     $jogos = json_decode($jogos_json, true);
-    // Inicializa a variavel $jogo como null e então percorre o array $jogos e encontra o jogo com o id igual ao id passado como parametro
+    /* Inicializa a variavel $jogo como null e então percorre o array $jogos e encontra o jogo com o id igual ao id passado como parametro */
     $jogo = null;
     foreach ($jogos as $j) {
         if ($j['id'] == $id) {
@@ -41,16 +41,16 @@
     <div class="produto-detalhe">
         <div class="produto-imagem">
             <?php
-            // Pega a imagem atual da URL, se não estiver setada, pega a imagem principal
+            /* Pega a imagem atual da URL, se não estiver setada, pega a imagem principal */
             $current_image = isset($_GET['img']) ? $_GET['img'] : $jogo['imagem_principal'];
             
-            // Exibe a imagem atual
+            /* Exibe a imagem atual */
             echo '<img src="img/' . $current_image . '" id="imagem-principal" class="imagem-principal" alt="' . $jogo['nome'] . '">';
             
-            // Exibe o carrossel de imagens
+            /* Exibe o carrossel de imagens */
             echo '<div class="carrossel">';
             foreach ($jogo['imagens'] as $imagem) {
-                // Cada imagem do carrossel é um link que pega o id do produto e a imagem selecionada e passa como parametro para a url
+                /* Cada imagem do carrossel é um link que pega o id do produto e a imagem selecionada e passa como parametro para a url */
                 echo '<a href="produto.php?id=' . $jogo['id'] . '&img=' . $imagem . '">';
                 echo '<img src="img/' . $imagem . '" class="carrossel-imagem" alt="' . $jogo['nome'] . '">';
                 echo '</a>';
