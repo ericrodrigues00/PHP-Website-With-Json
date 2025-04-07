@@ -1,0 +1,50 @@
+{
+    "id": 8,
+    "nome": "Catan",
+    "preco": 299.90,
+    "categoria": "Estratégia",
+    "imagem_principal": "catan (1).jpg",
+    "imagens": ["catan (1).jpg", "catan (2).jpg", "catan (3).jpg", "catan (4).jpg"],
+    "descricao": "Em Catan, os jogadores colonizam uma ilha rica em recursos naturais. Você precisa negociar, construir e expandir suas estradas e assentamentos para dominar o território.",
+    "componentes": [
+      "19 peças de terreno",
+      "6 peças de mar",
+      "96 peças de recurso",
+      "25 cartas de desenvolvimento",
+      "20 casas, 16 cidades, 60 estradas",
+      "2 dados",
+      "1 ladrão",
+      "Manual de regras"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "The Mind",
+    "preco": 109.90,
+    "categoria": "Cooperativo",
+    "imagem_principal": "themind (1).jpg",
+    "imagens": ["themind (1).jpg", "themind (2).jpg", "themind (3).jpg", "themind (4).jpg"],
+    "descricao": "The Mind é um jogo cooperativo minimalista onde os jogadores devem jogar cartas em ordem crescente... sem falar nada!",
+    "componentes": [
+      "100 cartas numeradas",
+      "12 cartas de nível",
+      "5 cartas de vida",
+      "3 cartas de estrela ninja",
+      "Manual ilustrado"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Carcassonne",
+    "preco": 189.90,
+    "categoria": "Familia",
+    "imagem_principal": "carcassone (1).jpg",
+    "imagens": ["carcassone (1).jpg", "carcassone (2).jpg", "carcassone (3).jpg", "carcassone (4).jpg"],
+    "descricao": "Em Carcassonne, os jogadores constroem o mapa da região francesa colocando peças de terreno e posicionando meeples.",
+    "componentes": [
+      "72 peças de terreno",
+      "40 meeples em 5 cores",
+      "1 tabuleiro de pontuação",
+      "1 livreto de regras"
+    ]
+  }

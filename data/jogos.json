@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "nome": "O Senhor dos Anéis: Card Game",
+    "preco": 499.90,
+    "categoria": "Estratégia",
+    "imagem_principal": "lordrings.jpg",
+    "imagens": ["lordrings_2.jpg", "lordrings_3.jpg", "lordrings_4.jpg", "lordrings.jpg"],
+    "descricao": "A versão revisada de O Senhor dos Anéis: Card Game conta com missões que passam pelos campos do Condado, a Floresta das Trevas, os reinos de Gondor e Rohan, e entre outros locais marcantes da saga.​. Os jogadores assumem o papel de heróis como Legolas, Aragorn e Gimli para formar um grupo de aventureiros que vai precisar passar por perigosas missões por toda a Terra Média com o objetivo de fazer frente à ameaça de Sauron, o Senhor do Escuro.",
+    "componentes": [
+    "1 livro de regras",
+    "1 guia de referências",
+    "188 cartas de jogador ",
+    "12 cartas de herói ",
+    "84 cartas de escudeiro ",
+    "10 cartas de missão ",
+    "3 cartas de campanhas ",
+    "16 cartas de vantagens e desvantagens ",
+    "57 fichas de recurso",
+    "66 fichas de dicas",
+    "65 fichas de progresso",
+    "4 registros de ameaça",
+    "1 marcador de primeiro jogador"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Dungeons & Dragons 5ª Edição",
+    "preco": 99.90,
+    "categoria": "RPG",
+    "imagem_principal": "dnd.jpg",
+    "imagens": ["dnd_2.jpg", "dnd_3.jpg", "dnd_4.jpg", "dnd.jpg"],
+    "descricao": "O Livro do Jogador é a peça central da experiência do jogador de D&D, com regras para criação de personagens, exploração e combate. Este livro contém regras para criação de personagens fantásticos e excitantes prontos para participar de grandes aventuras. É o primeiro de três livros de regras básicas para jogar o RPG mais popular do mundo.",
+    "componentes": [
+    "1 livro de regras de 320 páginas",
+    "1 escudo do mestre"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Pandemic",
+    "preco": 279.90,
+    "categoria": "Cooperativo",
+    "imagem_principal": "pandemic.jpg",
+    "imagens": ["pandemic_2.jpg", "pandemic_3.jpg", "pandemic_4.jpg", "pandemic.jpg"],
+    "descricao": "Em Pandemic, várias doenças mortais ameaçam o futuro da humanidade. Os jogadores trabalham juntos, assumindo papéis únicos, para conter e curar doenças antes que seja tarde demais. A equipe deve cooperar e planejar estrategicamente para erradicar as doenças antes que surtos incontroláveis levem à ruína mundial.",
+    "componentes": [
+    "1 tabuleiro de jogo",
+    "7 peões de personagens",
+    "96 cubos de doenças",
+    "5 estações de pesquisa",
+    "59 cartas de jogo",
+    "48 cartas de infecção",
+    "6 marcadores",
+    "1 indicador de surto"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Azul",
+    "preco": 219.90,
+    "categoria": "Familia",
+    "imagem_principal": "azul.jpg",
+    "imagens": ["azul_2.jpg", "azul_3.jpg", "azul_4.jpg", "azul.jpg"],
+    "descricao": "Azul convida os jogadores a serem artistas decorando o Palácio Real de Évora com azulejos cerâmicos. Os jogadores adquirem peças decorativas coloridas e as colocam em suas áreas de jogo. Conforme o jogo progride, os jogadores ganham pontos com base em como colocaram seus azulejos para decorar o palácio.",
+    "componentes": [
+    "1 tabuleiro de pontuação",
+    "4 tabuleiros de jogador",
+    "100 azulejos plásticos",
+    "4 marcadores de pontuação",
+    "9 discos de fábricas",
+    "1 marcador de primeiro jogador"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Tormenta 20",
+    "preco": 75.00,
+    "categoria": "RPG",
+    "imagem_principal": "tormenta.jpg",
+    "imagens": ["tormenta_2.jpg", "tormenta_3.jpg", "tormenta_4.jpg", "tormenta.jpg"],
+    "descricao": "Tormenta20 é a nova edição do primeiro RPG brasileiro, ambientado em Arton, um mundo de fantasia medieval onde uma tempestade de energia corrompida ameaça engolir tudo. O sistema foi totalmente renovado para ser mais acessível aos novatos e mais interessante aos veteranos, trazendo regras modernas e dinâmicas.",
+    "componentes": [
+    "1 livro básico com 400 páginas",
+    "Escudo do Mestre"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Ticket to Ride",
+    "preco": 249.90,
+    "categoria": "Estratégia",
+    "imagem_principal": "ticket (1).jpg",
+    "imagens": ["ticket (2).jpg", "ticket (3).jpg", "ticket (4).jpg", "ticket (1).jpg"],
+    "descricao": "Em Ticket to Ride, os jogadores competem para conectar cidades através de ferrovias, completando rotas e garantindo um caminho contínuo entre os destinos em seus bilhetes. À medida que constroem suas redes ferroviárias pelo mapa da América do Norte, os jogadores ganham pontos coletando cartas de trem, reivindicando rotas e conectando destinos distantes.",
+    "componentes": [
+    "1 tabuleiro com mapa da América do Norte",
+    "240 vagões coloridos",
+    "144 cartas ilustradas",
+    "5 marcadores de pontuação",
+    "1 carta de bônus",
+    "Regras ilustradas"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Curse of Strahd",
+    "preco": 120.00,
+    "categoria": "RPG",
+    "imagem_principal": "strad_1.jpg",
+    "imagens": ["strad_2.jpg", "strad_3.jpg", "strad_4.jpg", "strad_1.jpg"],
+    "descricao": "Em Curse of Strahd, você e seu grupo são levados à sombria terra de Baróvia, um reino isolado pelas brumas e dominado pelo poderoso e cruel Conde Strahd von Zarovich. Esta aventura de Dungeons & Dragons 5ª Edição mergulha os jogadores em um cenário de horror gótico, repleto de mistério, criaturas sobrenaturais e decisões que podem selar o destino de todos. Com uma narrativa envolvente, desafios intensos e uma atmosfera única de suspense, Curse of Strahd é mais do que uma campanha — é uma luta desesperada contra as forças das trevas em um lugar onde a esperança é escassa e a morte espreita a cada esquina..",
+    "componentes": [
+    "1 livro em capa dura",
+    "1 kit de dados",
+    "1 baralho de cartas de Tarokka"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Catan",
+    "preco": 120.00,
+    "categoria": "Estratégia",
+    "imagem_principal": "catan (1).jpg",
+    "imagens": ["catan (1).jpg", "catan (2).jpg", "catan (3).jpg", "catan (4).jpg"],
+    "descricao": "Em Catan, os jogadores colonizam uma ilha rica em recursos naturais. Você precisa negociar, construir e expandir suas estradas e assentamentos para dominar o território.",
+    "componentes": [
+      "19 peças de terreno",
+      "6 peças de mar",
+      "96 peças de recurso",
+      "25 cartas de desenvolvimento",
+      "20 casas, 16 cidades, 60 estradas",
+      "2 dados",
+      "1 ladrão",
+      "Manual de regras"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "The Mind",
+    "preco": 70.00,
+    "categoria": "Cooperativo",
+    "imagem_principal": "themind (1).jpg",
+    "imagens": ["themind (1).jpg", "themind (2).jpg", "themind (3).jpg", "themind (4).jpg"],
+    "descricao": "The Mind é um jogo cooperativo minimalista onde os jogadores devem jogar cartas em ordem crescente... sem falar nada!",
+    "componentes": [
+      "100 cartas numeradas",
+      "12 cartas de nível",
+      "5 cartas de vida",
+      "3 cartas de estrela ninja",
+      "Manual ilustrado"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Carcassonne",
+    "preco": 189.90,
+    "categoria": "Familia",
+    "imagem_principal": "carcassone (1).jpg",
+    "imagens": ["carcassone (1).jpg", "carcassone (2).jpg", "carcassone (3).jpg", "carcassone (4).jpg"],
+    "descricao": "Em Carcassonne, os jogadores constroem o mapa da região francesa colocando peças de terreno e posicionando meeples.",
+    "componentes": [
+      "72 peças de terreno",
+      "40 meeples em 5 cores",
+      "1 tabuleiro de pontuação",
+      "1 livreto de regras"
+    ]
+  }
+  
+]
